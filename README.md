@@ -18,3 +18,5 @@ Features
 - Product Listing
 - Cart System
 - Order Management
+
+Status: Work in progress (built for experimentation).
